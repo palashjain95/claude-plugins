@@ -1,7 +1,5 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "jpalash-plugins",
-  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork & Claude Code.",
   "owner": {
     "name": "Palash Jain"
   },
@@ -11,11 +9,9 @@
       "description": "Your AI recruiting team — scores fit, tailors resume, preps interviews, negotiates offers. Three agents handling your entire job search lifecycle.",
       "category": "productivity",
       "source": {
-        "source": "url",
-        "url": "https://github.com/palashjain95/jobhunter.git",
-        "sha": "f43337e1830ba8a02504857180b4685b4e98bb7f"
-      },
-      "homepage": "https://github.com/palashjain95/jobhunter"
+        "source": "github",
+        "repo": "palashjain95/jobhunter"
+      }
     }
   ]
 }
