@@ -7,13 +7,13 @@ Open source repository of plugins primarily intended for knowledge workers to us
 Add the marketplace:
 
 ```bash
-claude plugin marketplace add palashjain95/knowledge-work-plugins
+claude plugin marketplace add palashjain95/palash-jain-plugins
 ```
 
 Then install any plugin:
 
 ```bash
-claude plugin install jobhunter@knowledge-work-plugins
+claude plugin install jobhunter@palash-jain-plugins
 ```
 
 ## Available Plugins
