@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "palash-jain-plugins",
+  "name": "jpalash-knowledge-work-plugins",
   "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork & Claude Code.",
   "owner": {
     "name": "Palash Jain"
