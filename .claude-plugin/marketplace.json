@@ -12,7 +12,8 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/palashjain95/jobhunter.git"
+        "url": "https://github.com/palashjain95/jobhunter.git",
+        "sha": "f43337e1830ba8a02504857180b4685b4e98bb7f"
       },
       "homepage": "https://github.com/palashjain95/jobhunter"
     }
